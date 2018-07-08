@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../java-libs/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java-libs/commons-dbutils-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java-libs/commons-net-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java-libs/jsch-0.1.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java-libs/postgresql-9.4.1209.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
